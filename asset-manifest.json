@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/steamtroops/static/css/main.8b509ee2.css",
+    "main.js": "/steamtroops/static/js/main.d3b02de5.js",
+    "static/js/787.a3cbd932.chunk.js": "/steamtroops/static/js/787.a3cbd932.chunk.js",
+    "static/media/banner.png": "/steamtroops/static/media/banner.e45ea47594ebfe332e47.png",
+    "static/media/Image 21@2x.png": "/steamtroops/static/media/Image 21@2x.9267c32e1c3f7e5a0960.png",
+    "static/media/Image 20@2x.png": "/steamtroops/static/media/Image 20@2x.e046d18feaf1b5e4df43.png",
+    "static/media/Image 22@2x.png": "/steamtroops/static/media/Image 22@2x.f67b44cab448264e8767.png",
+    "static/media/logo.png": "/steamtroops/static/media/logo.f185720a0dae4b6bac26.png",
+    "index.html": "/steamtroops/index.html",
+    "static/media/Path 1379.svg": "/steamtroops/static/media/Path 1379.9f3a6abd2b79727b4b2801880d3a85c5.svg",
+    "static/media/Path 1377.svg": "/steamtroops/static/media/Path 1377.969f289e184f63c8b5178dd19fc57030.svg",
+    "static/media/Path 1385.svg": "/steamtroops/static/media/Path 1385.a756499aaaf1bd5537e111eaf50a0a2c.svg",
+    "main.8b509ee2.css.map": "/steamtroops/static/css/main.8b509ee2.css.map",
+    "main.d3b02de5.js.map": "/steamtroops/static/js/main.d3b02de5.js.map",
+    "787.a3cbd932.chunk.js.map": "/steamtroops/static/js/787.a3cbd932.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b509ee2.css",
+    "static/js/main.d3b02de5.js"
+  ]
+}
